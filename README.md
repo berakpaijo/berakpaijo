@@ -6,7 +6,4 @@
 - 😄 Pronouns: He/Him (straight)
 - ⚡ Fun fact: I'm bald
 
-<!---
-berakpaijo/berakpaijo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ![abcd](https://github.com/berakpaijo/img/blob/main/New%20Piskel.gif)
