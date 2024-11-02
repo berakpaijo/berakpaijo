@@ -2,20 +2,20 @@
 
    # 👋 Hi, I’m @berakpaijo
    
-      ## 👀 I’m interested in... 
-         - making open-source software
-         - ricing
-      ## 🌱 I’m currently learning...
-         - C++
-         - PHP
-         - Linux
-      ## 📫 How to reach me? 
-         - Contact me via e-mail: iyanmaumakan56@gmail.com
-         - DM me via Instagram: instagram.com/berakpaijo
-      ## ⚡ Fun fact:
-         - bald
-         - loves to eat
-         - loves to trouble myself
+   ## 👀 I’m interested in... 
+      - making open-source software
+      - ricing
+   ## 🌱 I’m currently learning...
+      - C++
+      - PHP
+      - Linux
+   ## 📫 How to reach me? 
+      - Contact me via e-mail: iyanmaumakan56@gmail.com
+      - DM me via Instagram: instagram.com/berakpaijo
+   ## ⚡ Fun fact:
+      - bald
+      - loves to eat
+      - loves to trouble myself
 
 └───────────────────────────────────────────────────────┘
 
