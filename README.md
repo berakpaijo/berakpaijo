@@ -1,4 +1,4 @@
-================>
+================================>
 
    # 👋 Hi, I’m @berakpaijo
    
@@ -18,7 +18,7 @@
       - loves to trouble myself
       - listens to shoegaze
 
-<================
+<================================
 
 
 ![](https://steamuserimages-a.akamaihd.net/ugc/2473117766799508724/10D69C4AE2CD64028763FCD17F905FC9426D9DFF/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
