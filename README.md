@@ -16,6 +16,7 @@
       - bald
       - loves to eat
       - loves to trouble myself
+      - listens to shoegaze
 
 └───────────────────────────────────────────────────────┘
 
